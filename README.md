@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1. [mhr-cfw-go-windows-amd64](https://github.com/ali-best/downloader/tree/main/downloads/mhr-cfw-go-windows-amd64)
+
+---
